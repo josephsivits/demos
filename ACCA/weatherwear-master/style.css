@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.siteHeader {
+    font-style: italic;
+}
+
+div.recWear {
+    font-size: 1.5em;
+}
